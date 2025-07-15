@@ -1,0 +1,5 @@
+speechrecognition
+pyttsx3
+pyaudio
+python-dotenv
+python-telegram-bot==13.7
